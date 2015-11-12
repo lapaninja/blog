@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Lapa Blog</title>
+    <link>http://blog.lapa.ninja/post/</link>
+    <description>Recent content in Posts on Lapa Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Nov 2015 12:15:24 +0700</lastBuildDate>
+    <atom:link href="http://blog.lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>lapa blog</title>
+      <link>http://blog.lapa.ninja/post/lapa-blog/</link>
+      <pubDate>Thu, 12 Nov 2015 12:15:24 +0700</pubDate>
+      
+      <guid>http://blog.lapa.ninja/post/lapa-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hello</title>
+      <link>http://blog.lapa.ninja/post/hello/</link>
+      <pubDate>Thu, 12 Nov 2015 12:08:24 +0700</pubDate>
+      
+      <guid>http://blog.lapa.ninja/post/hello/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
